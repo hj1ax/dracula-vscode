@@ -1,6 +1,6 @@
 # Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
-> A [Dracula Official Theme](https://github.com/dracula/visual-studio-code) fork adapted to my personal preferences
+> A [Dracula Official Theme](https://github.com/dracula/visual-studio-code) fork adapted to my personal preferences.
 
 ## Contributing
 
